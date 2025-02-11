@@ -14,5 +14,5 @@ print(s[-7])# negtive index work on list and tuppple also
 #lenth function
 l="lengthofsequence"
 print(len(l))
-midchar=l[len(l)//2]
+midchar=l[len(l)//2] #cut off value
 print(midchar)
