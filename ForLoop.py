@@ -22,3 +22,4 @@ for aColor in ["yellow", "red", "purple", "blue"]:
     alex.left(90)
 
 wn.exitonclick()
+ 
