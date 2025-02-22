@@ -7,7 +7,10 @@ print(id(b))
 p=[81,82,83]
 q=[81,82,83]
 print(p is q) # p and q are not object
-
+p=q #point the same reference
 print(p==q)
+print(p is q)  #now its will return true
 print(id(p))
 print(id(q))
+q[0]=5
+print(p)
