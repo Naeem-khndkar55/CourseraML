@@ -12,5 +12,5 @@ print(p==q)
 print(p is q)  #now its will return true
 print(id(p))
 print(id(q))
-q[0]=5
-print(p)
+q[0]=5#affact the whole value
+print(p) 
