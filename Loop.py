@@ -28,3 +28,4 @@ for _ in range(10):
     angle =angle-3
 
 wn.exitonclick()
+
